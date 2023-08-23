@@ -1,0 +1,148 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.title span{
+    background-image: linear-gradient(to right, #c000b8, #906cec, #5f9bff, #63befc, #9ad9f1, #9fe7f2,
+    #acf3f1, #bfffee, #aaffd2, #afffa6, #ccff6d, #f8f71d);
+}
+.service{
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.title h2{
+    color: white;
+    font-size: 75px;
+    width: 1130px;
+    margin: 30px auto;
+    text-align: center;
+}
+.box1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 450px;
+    background-color: darkorchid;
+}
+.card1p i{
+    font-size: 50px;
+    display: block;
+    text-align: center;
+    margin: 15px 0px;
+    color: red;
+}
+.card1{
+    height: 450px;
+    width: 500px;
+    padding: 15px 35px;
+    background: rebeccapurple;
+    border-radius: 35px;
+    margin: 30px;
+    position: relative;
+    text-align: center;
+}
+.card1p{
+    height: 450px;
+    width: 500px;
+    padding: 15px 35px;
+    background: #191919;
+    border-radius: 35px;
+    margin: 30px;
+    position: relative;
+    text-align: center;
+}
+/*inosuke*/
+.title span{
+    color: red;
+}
+.service{
+    background: #101010;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.title h2{
+    color: white;
+    font-size: 75px;
+    width: 1130px;
+    margin: 30px auto;
+    text-align: center;
+}
+.box2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 450px;
+    background-color: rgb(157, 208, 250);
+}
+.card2{
+    height: 450px;
+    width: 500px;
+    padding: 15px 35px;
+    background: grey;
+    border-radius: 35px;
+    margin: 30px;
+    position: relative;
+    text-align: center;
+}
+.card2p i{
+    font-size: 50px;
+    display: block;
+    text-align: center;
+    margin: 15px 0px;
+    color: grey;
+}
+.card2p{
+    height: 450px;
+    width: 500px;
+    padding: 15px 35px;
+    background: black;
+    border-radius: 35px;
+    margin: 30px;
+    position: relative;
+    text-align: center;
+}
+.card2p h5{
+    color: gray;
+}
+/*Zenitsu*/
+.box3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 450px;
+    background-color: rgb(252, 255, 86);
+}
+.card3{
+    height: 450px;
+    width: 500px;
+    padding: 15px 35px;
+    background: orange;
+    border-radius: 35px;
+    margin: 30px;
+    position: relative;
+    text-align: center;
+}
+.card3z i{
+    font-size: 50px;
+    display: block;
+    text-align: center;
+    margin: 15px 0px;
+    color: yellow;
+}
+.card3z{
+    height: 450px;
+    width: 500px;
+    padding: 15px 35px;
+    background: black;
+    border-radius: 35px;
+    margin: 30px;
+    position: relative;
+    text-align: center;
+}
+.card3 h5{
+    color: yellow;
+}
+.card3z h5{
+    color: orange;
+}
